@@ -1,0 +1,10 @@
+.contact-btn {
+    background-color: #ff00dd;  /* Default blue color */
+    border-color: #ff00dd;      /* Default border color */
+  }
+
+  .contact-btn:hover {
+    background-color: #dd0c89;  /* Darker blue on hover */
+    border-color: #dd0c89;      /* Darker border on hover */
+    color: white;               /* Keep text white */
+  }
